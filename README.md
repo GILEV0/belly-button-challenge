@@ -3,6 +3,8 @@ Module 14 Challenge
 
 # Belly Button Biodiversity Dashboard
 
+![microbes-sem (1)](https://user-images.githubusercontent.com/112173540/216019398-148d9b0e-9ae9-4aee-b994-630685bc7c96.jpg)
+
 ### Deployed website:
 https://gilev0.github.io/belly-button-challenge
 
