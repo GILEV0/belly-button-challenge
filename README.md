@@ -3,7 +3,8 @@ Module 14 Challenge
 
 # Belly Button Biodiversity Dashboard
 
-Click on the link to view Belly Button Biodiversity Dashboard https://gilev0.github.io/belly-button-challenge
+### Deployed website:
+https://gilev0.github.io/belly-button-challenge
 
 In this project we built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/). 
 
@@ -25,8 +26,8 @@ The final result:
 
 ![dashboard](images/dashboard.png)
 
-## Resources 
-- Data Source: <a href="https://github.com/GILEV0/belly-button-challenge/samples.json" target="_blank">samples.json</a>
+## Resources used
+- Data Source: <a href="https://github.com/GILEV0/belly-button-challenge/samples.json" target="_blank">Bellybutton Samples</a>
 - Software: Visual Studio 
 - HTML code: <a href="https://github.com/GILEV0/belly-button-challenge/index.html" target="_blank">index.html</a>
 - JavaScript code:  <a href="https://github.com/GILEV0/belly-button-challenge/static/js/app.js" target="_blank">app.js</a>
