@@ -24,3 +24,9 @@ I displayed the sample metadata (an individual's demographic information), then 
 The final result:  
 
 ![dashboard](images/dashboard.png)
+
+## Resources 
+- Data Source: <a href="https://github.com/GILEV0/belly-button-challenge/samples.json" target="_blank">samples.json</a>
+- Software: Visual Studio 
+- HTML code: <a href="https://github.com/GILEV0/belly-button-challenge/index.html" target="_blank">index.html</a>
+- JavaScript code:  <a href="https://github.com/GILEV0/belly-button-challenge/static/js/app.js" target="_blank">app.js</a>
