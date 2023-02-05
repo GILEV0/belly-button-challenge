@@ -24,12 +24,20 @@ I displayed the sample metadata (an individual's demographic information), then 
 
 ![demoinfo](images/demoinfo.png)
 
+## Advanced Challenge Assignment
+Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+
+## Hints
+- Use console.log inside of your JavaScript code to see what your data looks like at each step.
+
+- Refer to the [Plotly.js documentation](https://plotly.com/javascript/) when building the plots.
+
 The final result:  
 
 ![dashboard](images/dashboard.png)
 
 ## Resources used
-- Data Source: <a href="https://github.com/GILEV0/belly-button-challenge/samples.json" target="_blank">Bellybutton Samples</a>
+- Data Source: <a href="https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json" target="_blank">Bellybutton Samples</a>
 - Software: Visual Studio 
 - HTML code: <a href="https://github.com/GILEV0/belly-button-challenge/index.html" target="_blank">index.html</a>
 - JavaScript code:  <a href="https://github.com/GILEV0/belly-button-challenge/static/js/app.js" target="_blank">app.js</a>
